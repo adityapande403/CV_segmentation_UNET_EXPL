@@ -1,0 +1,8 @@
+
+In our project, we focus on image segmentation using the Cityscapes dataset, which contains labeled urban scenes captured from vehicles in Germany. The dataset provides a challenging yet realistic environment for testing and evaluating segmentation techniques. Our project involves implementing various image segmentation methods, encompassing traditional techniques such as thresholding, clustering algorithms, as well as state-of-the-art deep learning models like U-Net and Mask R-CNN.
+
+One aspect of our project involves the application of clustering algorithms such as K-means and DBSCAN to segment images. These algorithms group pixels based on similarities in color, allowing us to explore their effectiveness in extracting meaningful regions from the dataset. We will compare the results of clustering algorithms with traditional and deep learning methods to understand their respective advantages and limitations.
+
+Our evaluation will not only focus on visual comparisons but will also include quantitative assessments using metrics such as Intersection over Union (IoU) and Dice Coefficient. These metrics provide insights into the accuracy and precision of the segmentation methods, aiding in a comprehensive analysis of their performance.
+
+Additionally, our project aims to explore the trade-offs between traditional and deep learning approaches, taking into consideration factors such as computational efficiency, robustness to variations, and interpretability. By conducting this analysis, we seek to contribute insights into the effectiveness of different segmentation techniques, offering a holistic understanding of the challenges associated with image segmentation in complex urban environments.
